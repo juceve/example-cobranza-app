@@ -1,0 +1,6 @@
+{
+  "name": "CobroMóvil - Gestión de Cobranzas y Recibos Térmicos",
+  "description": "Aplicación para celular y tablet con gestión de carteras de cobranza, registro de pagos en tiempo real, recibos térmicos Bluetooth (ESC/POS), notificaciones push y soporte offline con sincronización automática.",
+  "requestFramePermissions": ["bluetooth", "notifications", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
